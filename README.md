@@ -17,7 +17,7 @@ Classifies reviews into negative, positive, or neutral categories based on senti
 Requirements:
 
 Python 3.x
-Required Python libraries (e.g., NLTK, scikit-learn, pandas, matplotlib, scipy)
+Required Python libraries (e.g.,TextBlob, pandas, spacy)
 Usage:
 
 Prepare the dataset of Amazon product reviews.
