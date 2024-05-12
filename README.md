@@ -20,7 +20,7 @@ Python 3.x
 Required Python libraries (e.g.,TextBlob, pandas, spacy)
 Usage:
 
-Prepare the dataset of Amazon product reviews.
+Prepare the dataset of Amazon product reviews(feel free reach out for the datset).
 Install the required Python libraries listed in requirements above
 Configure the script to specify the location of the dataset and any other parameters.
 Run the script to perform sentiment analysis on the reviews.
